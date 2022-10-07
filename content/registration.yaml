@@ -1,0 +1,51 @@
+
+  - id: "9f80-d608-97f2"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact Us"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 133
+      listed: true
+    data:
+      description: "<p>We'd love to hear from you!</p>"
+      form_title: "Contact Us"
+      label_input_1: "Email"
+      label_input_2: "Name"
+      label_input_3: "Message"
+      message_placeholder: "Sample message"
+      submit_message: "<div>\n<div>Thank&nbsp;you&nbsp;for&nbsp;contacting&nbsp;us!&nbsp;We&nbsp;will&nbsp;reach&nbsp;out&nbsp;to&nbsp;you&nbsp;shortly.</div>\n</div>"
+      title: "Get In Touch"
+  - id: "4861-8804-0bb1"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact Us"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "registration"
+      path: "/registration/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 11
+      listed: true
+    data:
+      description: null
+      form_title: null
+      label_input_1: null
+      label_input_2: null
+      label_input_3: null
+      message_placeholder: null
+      submit_message: null
+      title: null
